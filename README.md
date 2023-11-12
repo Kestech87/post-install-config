@@ -36,8 +36,8 @@ Step 1
 
 Configure Roles
 
--Admin Panel -> Agents -> Roles
--Supreme Admin
+- Admin Panel -> Agents -> Roles
+- Supreme Admin
 
 <img src="https://i.imgur.com/Mc8Ccmg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -118,9 +118,15 @@ Step 4
 
 Step 5
 
-- Allow anyone to create tickets
+Configure Admin Panel -> Agents -> Add New
 
-- Admin Panel -> Settings -> User Settings
+- Supriya Kessie
+- Malachi Kessie
+
+
+  <img src="https://i.imgur.com/eFUOEVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/o0FxieP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
@@ -128,19 +134,32 @@ Step 5
 
 Step 6
 
-- Allow anyone to create tickets
+Configure Users (customers)
 
-- Admin Panel -> Settings -> User Settings
+Agent Panel -> Users -> Add New
 
+- Caroline
+- Cobbie
+
+  <img src="https://i.imgur.com/X0KnoyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/UVL6fhD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/gGa45Xl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 </p>
 
 <p>
 
 Step 7
 
-- Allow anyone to create tickets
+Configure SLA
 
-- Admin Panel -> Settings -> User Settings
+Admin Panel -> Manage -> SLA
+  - Sev-A (1 hour, 24/7)
+  - Sev-B (4 hours, 24/7)
+  - Sev-C (8 hours, business hours)
+
 
 </p>
 
