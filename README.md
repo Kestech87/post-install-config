@@ -156,9 +156,15 @@ Step 7
 Configure SLA
 
 Admin Panel -> Manage -> SLA
-  - Sev-A (1 hour, 24/7)
-  - Sev-B (4 hours, 24/7)
-  - Sev-C (8 hours, business hours)
+  - Emergency A (1 hour, 24/7)
+  - Emergency B (4 hours, 24/7)
+  - Emergency C (8 hours, business hours)
+
+  <img src="https://i.imgur.com/Hfo93VH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/99V81gu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/0TtOCpw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 </p>
@@ -168,8 +174,17 @@ Admin Panel -> Manage -> SLA
 
 Step 8
 
-- Allow anyone to create tickets
+Configure Help Topics
 
-- Admin Panel -> Settings -> User Settings
+Admin Panel -> Manage -> Help Topics
+
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+
+ <img src="https://i.imgur.com/cvCwIk8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <img src="https://i.imgur.com/39cpovM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
