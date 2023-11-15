@@ -39,7 +39,7 @@ Configure Roles
 - Admin Panel -> Agents -> Roles
 - Supreme Admin
 
-<img src="https://i.imgur.com/Mc8Ccmg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FyRSMJX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/kg1MZQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
