@@ -182,8 +182,8 @@ Admin Panel -> Manage -> Help Topics
 - Equipment Request
 - Password Reset
 
- <img src="https://i.imgur.com/cvCwIk8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/xn2pAro.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- <img src="https://i.imgur.com/39cpovM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/dYuQXSs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
