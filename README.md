@@ -96,7 +96,6 @@ Step 3
 <img src="https://i.imgur.com/Jhf4RId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<img src="https://i.imgur.com/YdKwW12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -126,7 +125,7 @@ Configure Admin Panel -> Agents -> Add New
 
   <img src="https://i.imgur.com/eFUOEVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/o0FxieP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/mwZ73O4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
