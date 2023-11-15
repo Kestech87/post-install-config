@@ -68,7 +68,7 @@ Configure Departments
 </p>
 
 <p>
-<img src="https://i.imgur.com/msotS4O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wJ1dhXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
