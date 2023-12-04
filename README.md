@@ -6,6 +6,12 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
+
+<p>
+
+The post-install configuration of osTicket system involves customizing various settings and preferences to suit your ticketing needs. This includes configuring email notifications, defining ticket queues, setting up user roles and permissions, and integrating with other systems for a seamless support ticket management experience.
+</p>
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
