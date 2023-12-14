@@ -131,7 +131,7 @@ Configure Admin Panel -> Agents -> Add New
 
   <img src="https://i.imgur.com/eFUOEVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/WQac28B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/DgxhbtL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   <img src="https://i.imgur.com/ggEdJTI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
