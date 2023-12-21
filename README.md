@@ -45,7 +45,7 @@ Configure Roles
 - Admin Panel -> Agents -> Roles
 - Supreme Admin
 
-<img src="https://i.imgur.com/mshNGZL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m1qYI98.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/kg1MZQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -74,7 +74,7 @@ Configure Departments
 </p>
 
 <p>
-<img src="https://i.imgur.com/wE1qBfu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/InM2Jby.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -99,7 +99,7 @@ Step 3
   
 <img src="https://i.imgur.com/U2Eu7yJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/Dng5bpm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AWpKEsh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 </p>
@@ -131,9 +131,9 @@ Configure Admin Panel -> Agents -> Add New
 
   <img src="https://i.imgur.com/eFUOEVT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/DgxhbtL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/XN2HNG5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/ggEdJTI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/spVIpBK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 </p>
 
@@ -150,9 +150,9 @@ Agent Panel -> Users -> Add New
 
   <img src="https://i.imgur.com/X0KnoyB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/JHAKKwD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/wQO2XKC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/gGa45Xl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/MOlQqIC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 </p>
 
@@ -167,11 +167,11 @@ Admin Panel -> Manage -> SLA
   - Emergency B (4 hours, 24/7)
   - Emergency C (8 hours, business hours)
 
-  <img src="https://i.imgur.com/wK1chAe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/thSpzss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   <img src="https://i.imgur.com/3W155L6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-  <img src="https://i.imgur.com/lPHpLyA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/nryrqNE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 </p>
